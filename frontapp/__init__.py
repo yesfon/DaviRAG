@@ -1,0 +1,1 @@
+from .frontapp import FrontApp
